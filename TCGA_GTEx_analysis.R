@@ -1,6 +1,6 @@
 library(data.table)
 library(DESeq2)
-#读入表型文件
+# load the phenotype file
 pd <- fread("phenotype/TcgaTargetGTEX_phenotype.txt.gz")
 pd <- as.data.frame.matrix(pd)
 table(pd[,4])
