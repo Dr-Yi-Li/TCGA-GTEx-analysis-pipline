@@ -1,1 +1,1 @@
-The expression file is too large for upload to Github. The file can be download easily from UCSC Xena. The url of the file bad been put in the file 'expression_file_download_url.txt'
+The expression file is too large for upload to Github. The file can be download easily from UCSC Xena. The url of the file is https://toil-xena-hub.s3.us-east-1.amazonaws.com/download/TCGA-GTEx-TARGET-gene-exp-counts.deseq2-normalized.log2.gz
